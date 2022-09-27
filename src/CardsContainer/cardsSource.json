@@ -1,0 +1,26 @@
+[
+  {
+    "uri": "./assets/mobile app development 1.png",
+    "alt": "mobile app",
+    "title": "Mobile Apps",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum mauris non pellentesque accumsan. Nec pellentesque eget."
+  },
+  {
+    "uri": "./assets/mobile app development 1.png",
+    "alt": "mobile app",
+    "title": "Mobile Apps",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum mauris non pellentesque accumsan. Nec pellentesque eget."
+  },
+  {
+    "uri":"./assets/web-development 1.png",
+    "alt":"Web Development",
+    "title":"Website Apps",
+    "p":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum mauris non pellentesque accumsan. Nec pellentesque eget."
+  },
+  {
+    "uri":"./assets/Web-Designing 1.png",
+    "alt":"Web Designing",
+    "title":"UI UX Design",
+    "p":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum mauris non pellentesque accumsan. Nec pellentesque eget."
+  }
+]

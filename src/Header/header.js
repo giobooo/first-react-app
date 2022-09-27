@@ -1,5 +1,8 @@
+import './header.css';
+
 export default function HeaderBlock() {
-  return(<header>
+  return(
+  <header>
     <div>
       <h1>
         We Create Powerful Digital <span>Products.</span>
